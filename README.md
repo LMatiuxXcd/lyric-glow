@@ -38,7 +38,7 @@ After Marketplace approval, Lyric Glow can also be installed directly from the B
 - **ID:** `lyric-glow`
 - **Version:** `1.3.1`
 - **Minimum Better Lyrics:** `2.4.0.1`
-- **Creator:** [MatiuxXcd](https://github.com/MatiuxXcd)
+- **Creator:** [MatiuxXcd](https://github.com/LMatiuxXcd)
 
 ## Development
 
@@ -50,7 +50,7 @@ The **Better Lyrics engine knobs** block inside `style.css` is intentionally a C
 
 ## Credits
 
-Created by **MatiuxXcd**.
+Created by **LMatiuxXcd**.
 
 Portions of the early selector/layout foundation were derived from [Lucid](https://github.com/drago-oo/lucid-theme) by **drago-oo** (MIT). Lyric Glow was extensively redesigned around a different lyric stage, hierarchy and visual system.
 

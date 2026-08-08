@@ -5,7 +5,7 @@
 
 An Aurora Cinematic Better Lyrics theme with typography-first lyrics, album-art ambience and a restrained Kawarp shader preset.
 
-![Lyric Glow preview](images/1.png)
+![Lyric Glow preview](images/2.png)
 
 ## Features
 

@@ -28,7 +28,7 @@ In Better Lyrics:
 2. Choose Install from URL.
 3. Enter:
 
-    https://github.com/MatiuxXcd/lyric-glow
+    https://github.com/LMatiuxXcd/lyric-glow
 
 After Marketplace approval, Lyric Glow can also be installed directly from the Better Lyrics Theme Store.
 
@@ -49,7 +49,7 @@ Better Lyrics stores and exposes the shader configuration, but the separate Bett
 - **ID:** `lyric-glow`
 - **Version:** `1.4.0`
 - **Minimum Better Lyrics:** `2.4.0.1`
-- **Creator:** [MatiuxXcd](https://github.com/LMatiuxXcd)
+- **Creator:** [LMatiuxXcd](https://github.com/LMatiuxXcd)
 
 ## Development
 

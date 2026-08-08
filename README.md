@@ -1,7 +1,7 @@
 # Lyric Glow
 
-[![Installs](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow)](https://github.com/MatiuxXcd/lyric-glow)
-[![Rating](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow/rating)](https://github.com/MatiuxXcd/lyric-glow)
+[![Installs](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow)](https://github.com/LMatiuxXcd/lyric-glow)
+[![Rating](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow/rating)](https://github.com/LMatiuxXcd/lyric-glow)
 
 An Aurora Cinematic Better Lyrics theme with typography-first lyrics, album-art ambience and a restrained Kawarp shader preset.
 
@@ -46,10 +46,10 @@ Better Lyrics stores and exposes the shader configuration, but the separate Bett
 
 ## Theme Metadata
 
-- ID: lyric-glow
-- Version: 1.4.0
-- Minimum Better Lyrics: 2.4.0.1
-- Creator: MatiuxXcd
+- **ID:** `lyric-glow`
+- **Version:** `1.4.0`
+- **Minimum Better Lyrics:** `2.4.0.1`
+- **Creator:** [MatiuxXcd](https://github.com/LMatiuxXcd)
 
 ## Development
 
@@ -61,7 +61,7 @@ The Better Lyrics engine knobs block inside style.css is intentionally a CSS com
 
 ## Credits
 
-Created by MatiuxXcd.
+Created by **LMatiuxXcd**.
 
 Portions of the early selector/layout foundation were derived from Lucid (https://github.com/drago-oo/lucid-theme) by drago-oo (MIT). Lyric Glow was extensively redesigned around a different lyric stage, hierarchy and visual system.
 

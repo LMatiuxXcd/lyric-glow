@@ -1,7 +1,7 @@
 # Lyric Glow
 
-[![Installs](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow)](https://github.com/MatiuxXcd/lyric-glow)
-[![Rating](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow/rating)](https://github.com/MatiuxXcd/lyric-glow)
+[![Installs](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow)](https://github.com/LMatiuxXcd/lyric-glow)
+[![Rating](https://img.shields.io/endpoint?url=https://better-lyrics-themes-api.boidu.dev/api/badge/lyric-glow/rating)](https://github.com/LMatiuxXcd/lyric-glow)
 
 An immersive Better Lyrics theme focused on cinematic album-art ambience, fluid lyric motion and clean typography.
 
